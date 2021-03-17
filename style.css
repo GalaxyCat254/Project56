@@ -1,0 +1,30 @@
+body {
+    background-color: deepskyblue;
+    text-align: center;
+    font-family: monospace;
+    color: aquamarine;
+}
+
+div {
+    margin-top: 15px;
+
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: blueviolet;
+    color: floralwhite;
+    font-family: monospace;
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
+}
